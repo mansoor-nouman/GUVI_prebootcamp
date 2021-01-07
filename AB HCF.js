@@ -30,6 +30,6 @@ inp.on("close", () => {
      return answer;
  }
  
- console.log(ans);
+ console.log(answer);
  //end-here
 });
